@@ -25,7 +25,7 @@
 *.a
 *.lib
 
-# Executables
+# Executables 
 *.exe
 *.out
 *.app
